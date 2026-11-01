@@ -73,10 +73,8 @@ How to Use
 6. Navigate to the EV MARKET STORY tab to view the five story points.
 
 Project Links
-
-- Tableau Public: Add your published project URL here.
-- Demo Video: Add your demo video link here.
+- Tableau Public: https://public.tableau.com/app/profile/prateek.mandliya/viz/EV_Market_Performance_Insights_17934679853330/EVMARKETSTORY?publish=yes
+- Demo Video: https://drive.google.com/file/d/1uU2fHm7QGzCmM3_h4g0BC0ZcKNpErALm/view?usp=drivesdk
 
 Author
-
-Add your name and relevant academic or professional details here.
+Prateek Mandliya
